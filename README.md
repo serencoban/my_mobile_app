@@ -1,16 +1,46 @@
-# my_mobile_app
+# 🌌 Cosmonotes
 
-A new Flutter project.
+**Cosmonotes** est une application Flutter minimaliste et immersive qui transforme chaque observation du ciel en un souvenir cosmique unique.  
+Que tu sois un simple curieux ou passionné d’astronomie, Cosmonotes te permet de **noter, photographier et visualiser** tes découvertes.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🌙 Fonctionnalités principales
 
-A few resources to get you started if this is your first Flutter project:
+| Catégorie | Description |
+|------------|--------------|
+| 🪶 **Notes & Observations** | Écris des notes détaillées sur tes observations célestes ou tes réflexions personnelles. |
+| 📸 **Capture photo** | Prends ou importe des photos du ciel |
+| 🏷️ **Tags intelligents** | Ajoute des tags (ex : `Lune`, `Mars`, `Pluie de météores`) qui adaptent automatiquement l’interface de la page. |
+| 🌌 **Carte cosmique personnelle** | Chaque post devient une étoile dans ta constellation unique. |
+| ☁️ **Contexte automatique** | Détection de la météo, de la phase lunaire et des conditions d’observation. |
+| 🗺️ **Localisation** | Visualise le lieu d’observation sur une carte terrestre ou céleste. |
+| 📊 **Statistiques** | Suis ta progression : nuits observées, tags les plus utilisés, badges débloqués. |
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧠 Idées originales
+
+✨ **1. Page de post dynamique**  
+Selon le tag principal, la page change de style et de contenu
+
+✨ **2. Carte cosmique personnelle**  
+Chaque entrée devient une étoile reliée aux autres, formant ta constellation personnelle au fil du temps.  
+
+---
+
+## 🎯 Public cible
+
+| Type d’utilisateur | Description |
+|---------------------|--------------|
+| 🌕 **Amateurs d’astronomie** | Pour ceux qui veulent un carnet structuré et élégant pour noter leurs observations. |
+| 📷 **Astrophotographes** | Pour ceux qui veulent enregistrer leurs clichés et leurs paramètres techniques. |
+| ✍️ **Rêveurs & écrivains** | Pour ceux qui voient dans le ciel une source d’inspiration. |
+| 🪩 **Curieux du soir** | Pour quiconque veut simplement garder une trace de ce qu’il a observé et ressenti. |
+
+---
+## 🪐 Fonctionnalités à venir
+
+- 🔭 **Intégration de carte du ciel** (API Stellarium / NASA)
+- ☁️ **Planificateur d’observations** (conditions météo et phases lunaires)
+
