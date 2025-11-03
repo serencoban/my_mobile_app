@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"ios":{"default":{"projectId":"test-firabase-auth-fdd70","appId":"1:418343472147:ios:074d55091091bffa5f43e6","uploadDebugSymbols":false,"fileOutput":"ios/Runner/GoogleService-Info.plist"}},"dart":{"lib/firebase_options.dart":{"projectId":"test-firabase-auth-fdd70","configurations":{"ios":"1:418343472147:ios:074d55091091bffa5f43e6"}}}}}}
