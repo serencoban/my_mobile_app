@@ -19,16 +19,6 @@ Que tu sois un simple curieux ou passionné d’astronomie, Cosmonotes te permet
 
 ---
 
-## 🧠 Idées originales
-
-✨ **1. Page de post dynamique**  
-Selon le tag principal, la page change de style et de contenu
-
-✨ **2. Carte cosmique personnelle**  
-Chaque entrée devient une étoile reliée aux autres, formant ta constellation personnelle au fil du temps.  
-
----
-
 ## 🎯 Public cible
 
 | Type d’utilisateur | Description |
