@@ -1,7 +1,7 @@
 # 🌌 Cosmonotes
 
 **Cosmonotes** est une application Flutter qui permet de documenter ses observations du ciel de manière structurée et visuelle.
-L’utilisateur peut enregistrer des notes ou des photos liées à ses observations, ajouter des informations contextuelles comme la météo, la phase de la Lune ou la localisation, et visualiser l’ensemble de ses entrées sous forme de carte céleste interactive.
+L’utilisateur peut enregistrer des notes ou des photos liées à ses observations, ajouter des informations contextuelles comme la météo, la phase de la Lune ou la localisation.
 L’objectif de l’application est d’offrir un outil simple et moderne pour suivre, organiser et revisiter ses expériences d’observation astronomique.
 
 ---
@@ -12,9 +12,9 @@ L’objectif de l’application est d’offrir un outil simple et moderne pour s
 |------------|--------------|
 | 🪶 **Notes & Observations** | Écris des notes détaillées sur tes observations célestes ou tes réflexions personnelles. |
 | 📸 **Capture photo** | Prends ou importe des photos du ciel |
-| 🏷️ **Tags intelligents** | Ajoute des tags (ex : `Lune`, `Mars`, `Pluie de météores`) qui adaptent automatiquement l’interface de la page. |
+| 🏷️ **Tags intelligents** | Ajoute des tags (ex : `Lune`, `Mars`, `Pluie de météores`) qui adaptent automatiquement l’interface de la page.(à revoir) |
 | 🌌 **Carte cosmique personnelle** | Chaque post devient une étoile dans ta constellation unique. (à revoir) |
-| 📊 **Statistiques** | Suis ta progression : nuits observées, tags les plus utilisés, badges débloqués. |
+| 📊 **Statistiques** | Suis ta progression : nuits observées, tags les plus utilisés, badges débloqués.(à revoir) |
 
 ---
 
@@ -30,9 +30,8 @@ L’objectif de l’application est d’offrir un outil simple et moderne pour s
 ## 🪐 Fonctionnalités à venir
 
 - 🔭 **Intégration de carte du ciel** (API Stellarium / NASA)
+- 🗺️ **Visualiser les observations sous forme de carte céleste interactive**
 - ☁️ **Planificateur d’observations** (conditions météo et phases lunaires)
-- 🗺️ **Localisation** (Visualise le lieu d’observation sur une carte)
-- **Contexte automatique** (Détection de la météo, de la phase lunaire et des conditions d’observation)
-
+- **Page d'observation qui s'adapte en fonction des tags**
 
 
